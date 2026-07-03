@@ -1,2 +1,11 @@
-# asanieris027-crypto.github.io
-Hello Guys am Eris Asani and am youtuber the channel name is Eris Asani and i public my games on itch.io
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Eris Asani | Game Developer</title>
+</head>
+<body>
+    <h1>Mirë se vini në portofolin tim!</h1>
+    <p>Unë jam zhvillues lojërash dhe krijues përmbajtjesh në YouTube.</p>
+    <a href="LINKU_YT_ITCH_IO_KETU">Lojërat e mia në Itch.io</a>
+</body>
+</html>
